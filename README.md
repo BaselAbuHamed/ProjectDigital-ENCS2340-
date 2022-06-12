@@ -9,4 +9,6 @@ d. Implement the 4-bit AND Array
 e. Use the blocks you implemented in the parts above to build the final system shown in the
 figure below. // this module name must be your university number
 f. You should show simulation results for each of the above parts
+
+
 ![image](https://user-images.githubusercontent.com/107325485/173225849-3661e836-fa93-4d44-a7a1-591b2d3ed311.png)
